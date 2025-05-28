@@ -14,5 +14,5 @@ To run the script from any terminal window:
    - Click **New**, paste the folder path, and click **OK**.
 4. Restart your terminal or computer.
 
-Now you can run your script from any directory in the terminal.
+Now you can run the script from any directory in the terminal.
 
