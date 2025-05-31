@@ -1,6 +1,6 @@
 param(
-    [string]$webname = $null,
-    [string]$search = $null
+    [string]$webname,
+    [string]$search
 )
 if($search){
     $encoded = [uri]::EscapeDataString($search)
